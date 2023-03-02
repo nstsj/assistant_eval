@@ -6,7 +6,7 @@
 
 - Evaluating Natural Language Understanding Services for Conversational Question Answering Systems by Wang et al.
 
--A Review of Evaluation Methods and Metrics for Conversational Agents by Budzianowski et al.
+- A Review of Evaluation Methods and Metrics for Conversational Agents by Budzianowski et al.
 
 ### Response time:
 The time it takes for a chatbot to respond to a user's message. This is an important metric to ensure that the chatbot is responding quickly to users.
