@@ -2,11 +2,11 @@
 
 ## Papers on chatbot metrics:
 
-- Chatbot Evaluation and Comparison: A User Study by Zhou et al.
+- [Chatbot Evaluation and Comparison](https://www.researchgate.net/publication/348014085_Trends_Methods_in_Chatbot_Evaluation).
 
-- Evaluating Natural Language Understanding Services for Conversational Question Answering Systems by Wang et al.
+- [Evaluating Natural Language Understanding Services for Conversational Question Answering Systems](https://aclanthology.org/W17-5522/)
 
-- A Review of Evaluation Methods and Metrics for Conversational Agents by Budzianowski et al.
+- [A Review of Evaluation Methods and Metrics for Conversational Agents](https://arxiv.org/pdf/1709.04409.pdf).
 
 ### Response time:
 The time it takes for a chatbot to respond to a user's message. This is an important metric to ensure that the chatbot is responding quickly to users.
@@ -25,9 +25,8 @@ The overall satisfaction of users with the chatbot. This metric can be measured 
 
 ## Papers on dialogue system evaluation:
 
-- A Survey of Evaluation Techniques for Dialogue Systems by Liu et al.
-- Towards Better Metric Learning for Large-scale Dialogue Systems by Feng et al. 
-- The ConvAI2 Leaderboard: How Open-Domain Chatbots Can Benefit from Learning about Dialogue State by Dinan et al.
+- [A Survey of Evaluation Techniques for Dialogue Systems](https://link.springer.com/article/10.1007/s10462-020-09866-x)
+- [A Comprehensive Assessment of Dialog Evaluation Metric](https://arxiv.org/abs/2106.03706)
 
 ###  Task completion rate:
 The percentage of tasks a dialogue system can successfully complete. This metric is important for evaluating the performance of the system in accomplishing specific tasks.
@@ -40,6 +39,9 @@ The overall satisfaction of users with the dialogue system. This metric can be m
 
 ### Diversity:
 The ability of a dialogue system to generate diverse responses to user queries.
+
+## Automatic Metrics:
+-[FineD-Eval: Fine-grained Automatic Dialogue-Level Evaluation](https://arxiv.org/abs/2210.13832)
 
 
 # Assistant Evaluation:
@@ -64,3 +66,9 @@ This metric measures how well the AI assistant performs under different conditio
 
 ### Engagement: 
 This metric measures how often users engage with the AI assistant and how long they stay engaged. This can be measured through metrics such as session duration and frequency of usage.
+
+
+
+
+
+
